@@ -22,4 +22,4 @@ for x in range(max_len - 1):
 password=""
 for x in preview_word_list:
         password = password + x
-print("This is your password"-password)
+print("This is your password-"password)
