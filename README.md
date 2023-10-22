@@ -1,9 +1,9 @@
 # firdt
 # python # password generator
-print("Hello folks")
-print("This is a password generator")
 import random 
 import array
+print("Hello folks")
+print("This is a password generator")
 max_len=15
 numbers=['0','1','2','3','4','5','6','7','8','9']
 low = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'm', 'n', 'o', 'p', 'q','r', 's', 't', 'u', 'v', 'w', 'x', 'y','z']
@@ -22,4 +22,4 @@ for x in range(max_len - 1):
 password=""
 for x in preview_word_list:
         password = password + x
-print(password)
+print("This is your password"-password)
