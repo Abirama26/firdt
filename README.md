@@ -1,5 +1,7 @@
 # firdt
 # python # password generator
+""" This pyhton code is a normal game as i am a film enthuasist tried building some project with kolllywood directors that
+would give you a random dierector """
 import random 
 import array
 print("Hello folks")
